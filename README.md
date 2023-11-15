@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Elias Soltani with a passion for bridging the gap between human intelligence and artificial intelligence. With a PhD in bioengineering with interest in 🧠
+- 👀 I’m interested in NLP, Large Langue Models and machine learning and AI stuff.
+- 🌱 I’m currently learning more about ML and LLMs
+- 💞️ I’m looking to collaborate on anything that makes our team work better and easier.
+- 📫 elias.soltani@fuel50.com
